@@ -1046,20 +1046,20 @@ document.write(`
 
             <div class="episode-card">
                 <div class="episode-header">
-                    <div class="episode-number">5</div>
-                    <h3 class="episode-title">Episodios 5</h3>
+                    <div class="episode-number">5-6</div>
+                    <h3 class="episode-title">Episodios 5 y 6</h3>
                 </div>
                 <div class="episode-specs">
                     <div class="episode-spec">
                         <div class="episode-spec-label">PESO&nbsp;</div>
-                        <div class="episode-spec-value">502 MB</div>
+                        <div class="episode-spec-value">962 MB</div>
                     </div>
                     <div class="episode-spec">
                         <div class="episode-spec-label">DURACIÓN TOTAL</div>
-                        <div class="episode-spec-value">~22 min</div>
+                        <div class="episode-spec-value">~44 min</div>
                     </div>
                 </div>
-                <a class="download-button" href="https://tpi.li/85mRTYJ" target="_blank">
+                <a class="download-button" href="https://tpi.li/RckMotY86" target="_blank">
                     <span>📥</span>
                     <span>DESCARGAR</span>
                 </a>
